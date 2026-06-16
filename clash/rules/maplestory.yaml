@@ -50,3 +50,6 @@ payload:
   - IP-CIDR,54.244.0.0/16,no-resolve
   - IP-CIDR,54.245.0.0/16,no-resolve
   - IP-CIDR,100.20.0.0/14,no-resolve
+
+  - IP-CIDR,3.34.0.0/16,no-resolve
+  - IP-CIDR,43.202.0.0/16,no-resolve
